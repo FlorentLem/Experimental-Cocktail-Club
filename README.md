@@ -1,3 +1,6 @@
+# Link for a demo
+https://experimental-cocktail-club.netlify.app/
+
 # REACT-STARTER
 
 bootstrapper CLI for React App.
